@@ -1,3 +1,6 @@
+Original from: https://github.com/HMC-ACE/hspiceParser/tree/main
+
+
 # hspiceParser
 
 Welcome to the hspiceParser Github page. hpsiceParser aims to be the final word in parsing hSpice output files, building on a long legacy of programs built by other circuit designers. The goals are (1) very simple installation, (2) support for a wide variety of output formats and (3) thorough documentation of what the parser is doing; if you've ever Googled "hSpice output format" and been frustrated at the result, then we're hoping this project helps. 
